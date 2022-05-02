@@ -1,6 +1,6 @@
 # Sobre mim
 - 👋 Olá, sou **@dxnielbrag**
-- 📫 Email de contato: daniel.braguini@escola.pr.gov.br
+- 📫 Email de contato: [email](daniel.braguini@escola.pr.gov.br)
 
 <!---
 dxnielbrag/dxnielbrag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
