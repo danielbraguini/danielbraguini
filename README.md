@@ -1,5 +1,5 @@
 # Sobre mim
-- 👋 Olá, sou **@dxnielbrag**
+- 👋 Olá, sou **@danielbraguini**
 - 📫 Email de contato: [email](daniel.braguini@escola.pr.gov.br)
 
 
